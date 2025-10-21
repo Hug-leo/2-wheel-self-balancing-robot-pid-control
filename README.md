@@ -1,5 +1,5 @@
 # Two-Wheel Self-Balancing Robot - PID Control
-
+<img width="1170" height="654" alt="image" src="https://github.com/user-attachments/assets/52f49c9d-f3d3-4da4-adc7-33d4598ef8c5" />
 A self-balancing robot project using dual PID controllers implemented in C++ for Arduino. The robot uses an MPU6050 gyroscope/accelerometer sensor and motor encoders to maintain balance through cascaded PID control loops.
 
 ## 🎯 Project Overview
